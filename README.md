@@ -6,7 +6,9 @@ A tool for game libraries
 
 The purpose is to create a tool for a french game-library. The project is being design around this particular client
 use cases.
+
 The project is composed by a web service (this repo) and an [Angular web client](https://github.com/xxjokerx/game-library-webapp).
+
 
 ## Technologies
 
@@ -56,9 +58,9 @@ Then run : `java -jar \target\game-library-0.3.0-ALPHA.jar`. The version may var
 
 ## Current version
 
-#### 1.0.0
+#### 1.0.1
 
-This version is the first release.
+This version is the first release of Game Library.
 
 ## Upcoming version
 
@@ -95,3 +97,7 @@ Loans features are done.
 #### 1.0.0
 
 This version is the first release, not fully complete yet
+
+#### 1.0.1
+
+Fix bugs
